@@ -1,0 +1,32 @@
+.c1
+ {
+  background-color: rgb(200, 191, 220);
+  padding:1%;
+  margin:1%;
+   border:1%;
+  text-align: center;
+ }
+ .c2
+ {
+   background-color: rgb(200, 191, 220);
+   padding-top:10%;
+   margin:2%;
+   border:2%;
+   text-align:center;
+   height:300px;
+   width:7%;
+   display:inline-block;
+ }
+ 
+
+ .c3
+ {
+   background-color: rgb(200, 192, 220);
+   padding-top:10%;
+   margin:2%;
+   border:2%;
+   text-align: center;
+   height:300px;
+   width:73%;
+   display:inline-block;
+ }
