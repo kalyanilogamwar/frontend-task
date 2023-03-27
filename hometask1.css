@@ -1,0 +1,57 @@
+*{
+    
+    padding:0px;
+    box-sizing:border-box;
+   
+}
+.heading1
+{
+  text-align:center;
+  color: black;
+   padding:1px;
+    border-style: solid;
+    border-color:rgb(28, 28, 98);
+    border-width:5px 400px 5px 400px;
+    
+}
+input[type="submit"]
+{
+   color: white;
+   background-color:black;
+
+}
+body {
+  font-family: 'EB Garamond';
+}
+  .displayinline{
+    display:flex;
+    display: inline-block;
+  }
+  .padding25{
+    padding-right:25%;
+  }
+
+  img {
+    padding: 20px;
+    width: 200px;
+    padding-right:20px ;
+    padding-bottom: 40px;
+  }
+  .float
+  {
+    text-align :justify;
+    float: right;
+    width: 80%;
+  }
+  input[type="button"]
+  {
+   
+   background-color: rgb(224, 76, 22);
+   color: white;
+   box-shadow: 1px 1px gray;
+   padding:8px;
+   border-color: white;
+  }
+  
+ 
+  
