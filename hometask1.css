@@ -30,7 +30,10 @@ body {
   .padding25{
     padding-right:25%;
   }
-
+.textaligncenter
+{
+  text-align: center;
+}
   img {
     padding: 20px;
     width: 200px;
